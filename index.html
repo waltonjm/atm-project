@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="UTF-8" />
+    <title>ATM Project</title>
+    
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"/>
+    
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
+    
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js" 
+    crossorigin></script>
+    <script src="https://kit.fontawesome.com/6f8760fe73.js" crossorigin="anonymous"></script>
+   
+  </head>
+
+  <body>
+   <div>
+   <div class="p-3 mb-2 bg-dark text-light"><i class="fa-solid fa-money-bill-1-wave fa-2x"></i> Refresh browser page to update.</div>
+   
+  <div class="container bg-success">
+          <!-- React component inside this div/content -->
+          <h1><a href="#" class="text-light">Automatic Teller Machine (ATM) Project</a></h2>
+          <div id="root"></div>    
+          </div>
+    </div>
+   
+         
+    <!-- Note: when deploying, replace "development.js" with "production.min.js". -->
+    <script src="https://unpkg.com/react@17/umd/react.development.js"    crossorigin></script>
+    <script src="https://unpkg.com/react-dom@17/umd/react-dom.development.js"
+    crossorigin></script>
+
+    <!-- Load our React component. -->
+    <script type="text/jsx" src="./atm-improvements.jsx"></script>
+  
+  </body>
+</html>

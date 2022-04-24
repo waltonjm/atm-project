@@ -1,0 +1,29 @@
+
+.h1 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: large;
+  color: #2c2c74;
+}
+
+button {
+  background-color: #c3baba;
+  border: 6px solid #0b6a13;
+  border-radius: 10px;
+  width: 150px;
+}
+
+select {
+  display: block;
+  margin-bottom: 20px;
+}
+
+.text {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: large;
+  color: #A9A9A9;
+}
+
+.container {
+  background-color: #8f2222;
+
+}
