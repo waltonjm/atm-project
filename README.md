@@ -12,9 +12,9 @@ Javascript needs to be enabled to run this app.
 ## Support
 For help use the standard reference sites:
 
-https://stackoverflow.com/
-https://developer.mozilla.org
-https://codepen.io/ Roadmap This application will be used in the development of other applications as we progress in this boot camp.
+* https://stackoverflow.com/
+* https://developer.mozilla.org
+* https://codepen.io/ Roadmap This application will be used in the development of other applications as we progress in this boot camp.
 
 ## Roadmap
 No future improvements is anticipated for this project unless selected for Capstone Project.
